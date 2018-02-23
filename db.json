@@ -1,8 +1,8 @@
 {
   "mental-health": [
-    { "id": "1", "copywritten_summary": "In Devon an estimated 11,000 young people with recognised mental health disorders are not receiving support.", "charity": "Action East Devon"}
+    { "id": "1", "copywritten_summary": "In Devon an estimated 11,000 young people with recognised mental health disorders are not receiving support.", "charity": "Action East Devon", "url": "http://www.edvsa.org.uk/"}
   ],
   "homelessness": [
-    { "id": "2", "copywritten_summary": "Booth Centre is supporting the most vulnerable homeless people who are experiencing abuse, violence and or exploitation on a daily basis", "charity": "Booth Centre"}
+    { "id": "2", "copywritten_summary": "Booth Centre is supporting the most vulnerable homeless people who are experiencing abuse, violence and or exploitation on a daily basis", "charity": "Booth Centre", "url": "http://www.boothcentre.org.uk/"}
   ]  
 }
