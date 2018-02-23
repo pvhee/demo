@@ -1,15 +1,10 @@
 {
   "posts": [
-    { "id": "1", "copywritten_summary": "In Devon an estimated 11,000 ing support.", "charity": "Action East Devon"},
+    { "id": "1", "copywritten_summary": "In Devon an estimated 11,000 young people with recognised mental health disorders are not receiving support.", "charity": "Action East Devon"},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-    { "id": 3, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "homelessness": [
+    { "id": "2", "copywritten_summary": "Booth Centre is supporting the most vulnerable homeless people who are experiencing abuse, violence and or exploitation on a daily basis", "charity": "Booth Centre"}
+  ]  
 }
