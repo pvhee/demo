@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "homelessness": [
+    { 
+      id: "1",
+      amount_awarded: "87033",
+      copywritten_summary: "In Devon an estimated 11,000 young people with recognised mental health disorders are not receiving support. There has been a 97% rise in the number of children and young people referred to the Child and Adolescence Mental Health Services since 2013 and this is predicted to rise annually. ",
+      name: "Action East Devon"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
